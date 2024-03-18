@@ -1,16 +1,8 @@
 # citrusdev_ble_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install apk file
+2. Turn on Bluetooth on your device
+3. Connect your device with other device where you also should turn on Bluetooth.
+4. Run the App
+5. Agree with
+6. Click button "Scan devices", agree with permission, find your connected device, click connect, after 5 seconds it will navigate you to another screen with BluetoothServices of chosen device or will throw an error.
